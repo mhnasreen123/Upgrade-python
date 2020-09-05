@@ -2,3 +2,19 @@ Sort()
 Prices = [238.11,237.81,238.91]
 Prices.sort()
 Print(prices)
+
+Append() 
+months = ['January', 'February', 'March'] 
+months.append('April')
+print(months) 
+
+Max() 
+prices = [159,37,56]
+price_max = max(prices) 
+print(price_max) 
+
+Len() 
+price = [56.45,58.69]
+print(len(price)) 
+
+
