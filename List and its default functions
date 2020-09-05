@@ -1,0 +1,4 @@
+Sort() 
+Prices = [238.11,237.81,238.91]
+Prices.sort()
+Print(prices)
